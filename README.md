@@ -1,4 +1,5 @@
 # NVPC_Project
+Interned at NVPC(National Volunteer philanthrophy center)
 Developed and published an interactive dashboard using Tableau for donor chum analysis using donor demographic and
 transactional data, which gave them insights on which donor profile has highest attrition behavior and reduced attrition behavior
 by 10%.
